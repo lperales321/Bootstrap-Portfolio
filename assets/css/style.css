@@ -98,6 +98,10 @@
   .portfolio-images {
     width: 200px;
   }
+
+  .rps-image {
+    width: 350px;
+  }
   
   .formBox {
     border: 1px solid black;
