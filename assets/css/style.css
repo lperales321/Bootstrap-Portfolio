@@ -102,6 +102,11 @@
   .rps-image {
     width: 350px;
   }
+
+  .amazon-image {
+    width: 250px;
+    padding-top: 20px;
+  }
   
   .formBox {
     border: 1px solid black;
