@@ -107,6 +107,11 @@
     width: 200px;
     padding-top: 20px;
   }
+
+  .ff-image {
+    width: 350px;
+    margin-top: 20px;
+  }
  
   .formBox {
     border: 1px solid black;
